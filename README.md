@@ -17,7 +17,8 @@ The dashboard enables users to monitor sales performance, profitability, custome
 - Interactive Year-Based Filtering 
 - Executive-Level KPI Monitoring 
 
-## Dashboard Interaction 
+## Dashboard Interaction
+- <a href="https://github.com/Jyothsna7979/Sales-performance-analysis/commit/3a8709f3d733cdabc5cc11f4594be139794762aa">View Dashboard</a>
  ## 🔨Tools & Features Used 
 - Microsoft Excel 
 - Pivot Tables 
@@ -62,3 +63,6 @@ Excel Reporting
 Power Query 
 Power Pivot 
 KPI Development 
+
+## Dashboard
+<img width="1263" height="565" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/9b29c099-0135-4db7-8d21-73c0d8e05802" />

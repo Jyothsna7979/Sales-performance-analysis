@@ -48,21 +48,21 @@ The dashboard enables users to monitor sales performance, profitability, custome
 - <a href="https://github.com/Jyothsna7979/Sales-performance-analysis/blob/main/dashboard_screenshot.jpeg">View Dashboard</a>
 
 ## 📁Files Included 
-dashboard.xlsx 
-dashboard.pdf 
-dashboard_screenshot.png 
-superstore_dataset.xlsx 
+- dashboard.xlsx 
+- dashboard.pdf 
+- dashboard_screenshot.png 
+- superstore_dataset.xlsx 
 
 ## 💡 Skills Demonstrated 
-Data Cleaning 
-Data Transformation 
-Business Analysis 
-Dashboard Design 
-Data Visualization 
-Excel Reporting 
-Power Query 
-Power Pivot 
-KPI Development 
+- Data Cleaning
+- Data Transformation 
+- Business Analysis 
+- Dashboard Design 
+- Data Visualization 
+- Excel Reporting 
+- Power Query 
+- Power Pivot 
+- KPI Development 
 
 ## Dashboard
 <img width="1263" height="565" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/9b29c099-0135-4db7-8d21-73c0d8e05802" />

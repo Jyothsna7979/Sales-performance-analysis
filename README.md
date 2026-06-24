@@ -7,3 +7,46 @@ This project presents an interactive Sales Dashboard built in Microsoft Excel us
 The dashboard enables users to monitor sales performance, profitability, customer contribution, and product-level performance through interactive visualizations and KPI tracking. 
 ## Dataset used
 - <a href="https://github.com/Jyothsna7979/Sales-performance-analysis/blob/main/superstorefile.xlsx">Superstore Dataset</a>
+
+# Dashboard Highlights 
+
+# 🎯Key Performance Indicators (KPIs) 
+
+Total Sales: $1.10M 
+Total Profit: $132.5K 
+Total Orders: 5,009 
+Total Customers: 793 
+Profit Margin: 12.05% 
+## Business Analysis Included 
+Sales by Customer Segment 
+Sales by Region 
+Top Customers by Revenue 
+Top Profit-Generating Products 
+Top Loss-Making Products 
+Interactive Year-Based Filtering 
+Executive-Level KPI Monitoring 
+
+ ## 🔨Tools & Features Used 
+Microsoft Excel 
+Pivot Tables 
+Pivot Charts 
+Slicers 
+Data Model (Power Pivot) 
+Power Query 
+KPI Cards 
+Dashboard Design & Formatting 
+
+## 🔡Data Preparation 
+Data Type Standardization 
+Column Renaming (Snake Case) 
+Data Cleaning using Power Query 
+Custom Calculated Columns 
+Business Metric Calculations 
+
+ ## ✅Business Questions Answered 
+Which customer segment generates the highest revenue? 
+Which regions contribute the most to sales? 
+Who are the highest-value customers? 
+Which products generate the highest profits? 
+Which products are responsible for losses? 
+What is the overall profitability of the business? 

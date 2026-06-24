@@ -41,3 +41,5 @@ The dashboard enables users to monitor sales performance, profitability, custome
 - Which products generate the highest profits? 
 - Which products are responsible for losses? 
 - What is the overall profitability of the business? 
+
+- Dashboard Interaction <a href="https://github.com/Jyothsna7979/Sales-performance-analysis/blob/main/dashboard_screenshot.jpeg">View Dashboard</a>

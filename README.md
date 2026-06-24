@@ -8,7 +8,7 @@ The dashboard enables users to monitor sales performance, profitability, custome
 ## Dataset used
 - <a href="https://github.com/Jyothsna7979/Sales-performance-analysis/blob/main/superstorefile.xlsx">Superstore Dataset</a>
 
-## Business Analysis Included 
+## 🔗Business Analysis Included 
 - Sales by Customer Segment 
 - Sales by Region 
 - Top Customers by Revenue 

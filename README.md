@@ -66,3 +66,6 @@ The dashboard enables users to monitor sales performance, profitability, custome
 
 ## Dashboard
 <img width="1263" height="565" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/9b29c099-0135-4db7-8d21-73c0d8e05802" />
+
+## Conclusion
+The Superstore Sales Dashboard generated key business insights from ₹1M in sales, ₹87.16K in profit, and 3,002 orders. The Consumer segment emerged as the primary revenue driver, while the West and East regions recorded the strongest sales performance. High-value customers such as Tom Ashbrook and Hunter Lopez contributed significantly to revenue. The Canon imageCLASS 2200 Advanced Copier was the most profitable product, whereas the Cubify CubeX 3D Printer Triple Head Print generated the highest loss. These findings highlight opportunities to strengthen profitable products and customer segments while addressing underperforming products and regions to improve overall profitability.

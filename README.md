@@ -17,6 +17,7 @@ The dashboard enables users to monitor sales performance, profitability, custome
 - Interactive Year-Based Filtering 
 - Executive-Level KPI Monitoring 
 
+## Dashboard Interaction 
  ## 🔨Tools & Features Used 
 - Microsoft Excel 
 - Pivot Tables 
@@ -42,4 +43,22 @@ The dashboard enables users to monitor sales performance, profitability, custome
 - Which products are responsible for losses? 
 - What is the overall profitability of the business? 
 
-- Dashboard Interaction <a href="https://github.com/Jyothsna7979/Sales-performance-analysis/blob/main/dashboard_screenshot.jpeg">View Dashboard</a>
+## 📜Dashboard Preview 
+- <a href="https://github.com/Jyothsna7979/Sales-performance-analysis/blob/main/dashboard_screenshot.jpeg">View Dashboard</a>
+
+## 📁Files Included 
+dashboard.xlsx 
+dashboard.pdf 
+dashboard_screenshot.png 
+superstore_dataset.xlsx 
+
+## 💡 Skills Demonstrated 
+Data Cleaning 
+Data Transformation 
+Business Analysis 
+Dashboard Design 
+Data Visualization 
+Excel Reporting 
+Power Query 
+Power Pivot 
+KPI Development 

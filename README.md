@@ -6,4 +6,4 @@ This project presents an interactive Sales Dashboard built in Microsoft Excel us
 
 The dashboard enables users to monitor sales performance, profitability, customer contribution, and product-level performance through interactive visualizations and KPI tracking. 
 ## Dataset used
-- <a href="https://github.com/Jyothsna7979/Sales-performance-analysis/blob/main/superstorefile.xlsx">Superstore Data</a>
+- <a href="https://github.com/Jyothsna7979/Sales-performance-analysis/blob/main/superstorefile.xlsx">Superstore Dataset</a>
